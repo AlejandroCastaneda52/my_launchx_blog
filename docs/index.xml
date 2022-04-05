@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Alejandro Castaneda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://alejandrocastaneda52.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://alejandrocastaneda52.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi camino por Launch X</title>
+      <link>https://alejandrocastaneda52.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://alejandrocastaneda52.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Mucho gusto, es un placer que te pases por mi blog.
+Mi avance en Launch X ha sido el aprender a usar Python, Jupyter Notebooks, HTML, CSS, JavaScript, Command Line, Node Js y el uso básico de GitHub. Mi formación academica en la que estoy en proceso es la Ing. Sistemas Computacionales, empezando este proyecto tenía ya conocimientos de programación. Me esta gustando mucho el programa porque he aprendido nuevas cosas gracias a los Mission Commander, expresan/contestan dudas, que en algun momento tuve, de manera simplificada y fácil de entender que hasta desearía que mis profesores con los que me generaban esa duda, lo hubieran dado así.</description>
+    </item>
+    
     <item>
       <title>La Cultura de un Desarrollador de Software</title>
       <link>https://alejandrocastaneda52.github.io/my_launchx_blog/posts/intro/</link>
