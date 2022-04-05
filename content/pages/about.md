@@ -5,17 +5,10 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## ¿Quién soy yo?
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, Mi nombre es Alejandro Castañeda 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
-
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+- Actualmente estoy estudiando la Licenciatura de Ing. Sistemas Computaciones.
+- Tengo 21 años.
+- Me llamaba mucho la atención el tema de ciberseguridad pero conforme he ido progresando, creo que me decido por desarrollo de páginas web.
